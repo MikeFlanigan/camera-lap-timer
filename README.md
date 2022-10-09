@@ -5,6 +5,9 @@ This is intended to be an rc car lap timer thanks to max and jack being into rc 
 as to who could make a lap time the fastest. Honestly this wasn't fast. But it seems to work.
 
 # How to use it (once it's been setup)
+- launch by running the exe "lap_timer_v1.exe" (or further explanation in the how to set it up section)
+    * Note when running on a computer the exe wasn't compiled on it can take up to 2 minutes to launch.... I don't know why.
+
 - generally at any time press 'q' to quit the program.
 
 1. View webcam stream. If the start/finish line is in view then press space bar to continue.
@@ -57,4 +60,6 @@ Ideas for improvements:
 - 55 minutes 10/2
 - 6 hours 10/2 to 10/3 ... dang.
 - 3 hours, 50 minutes, 10/3 ... mostly working. Needs GUI and user flow work. 
-- 
+- 5 hours 25 minutes 10/9 ... calling this done!
+
+- grand total to MVP...: 18.25 hours. Dang lol. Way more than expected.
